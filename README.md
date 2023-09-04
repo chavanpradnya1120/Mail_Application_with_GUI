@@ -1,7 +1,22 @@
-# Mail_Application_with_GUI
-Developed a Python mail app with a user-friendly GUI, supporting voice and text input. Enables sending emails to single or multiple recipients, provides real-time success/failure notifications, and includes a status tracker to monitor email delivery stats (sent, pending, failed).
-### Demo
+
+# Mail Application with GUI in Python
+
+Created a Python mail application with a user-friendly GUI, featuring voice and text input for composing emails. Implemented the ability to send emails to single or multiple recipients simultaneously, with real-time notifications for successful or failed deliveries. Additionally, included a status tracker to monitor and display the application's performance, such as the number of emails sent successfully, pending, and failed.
+
+## Features
+
+- Composing and sending emails.
+- Support for both voice and text input.
+- Sending emails to single and multiple recipients.
+- Real-time notifications for email delivery status.
+- A status tracker displaying sent, pending, and failed emails.
 
 
-https://github.com/chavanpradnya1120/Mail_Application_with_GUI/assets/89026631/c2a3c349-fe20-4388-bdeb-999870a59c4c
+## Screenshots
+### Mail_Application_with_GUI
+![Mail Application](https://github.com/chavanpradnya1120/Mail_Application_with_GUI/blob/main/mail_application_gui.png?raw=true)
+
+
+
+
 
